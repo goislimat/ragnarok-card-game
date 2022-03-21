@@ -1,0 +1,12 @@
+{
+  "name": "ragnarok-card-game-server",
+  "author": {
+    "name": "Thiago Gois",
+    "email": "goislimat@gmail.com"
+  },
+  "version": "1.0.0",
+  "description": "Server side of the Ragnarok Card Game",
+  "main": "index.js",
+  "repository": "https://github.com/goislimat/ragnarok-card-game",
+  "license": "MIT"
+}
